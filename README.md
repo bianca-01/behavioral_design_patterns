@@ -20,7 +20,14 @@
 
 Os padrões de comportamento lidam com a comunicação eficiente e a designação de responsabilidades entre objetos.
 
-## Memento
+<h2 align="center" id="memento">
+  Memento
+</h2>
+
+O objetivo do Padrão Memento é implementar a funcionalidade desfazer para um ou mais objetos em um sistema sem violar o Princípio da Responsabilidade Única.
+
+[Exemplo de implementação](https://github.com/bianca-01/behavioral_design_patterns/blob/main/memento/memento.ipynb)
+
 
 <h2 align="center" id="observer">
   Observer
@@ -29,10 +36,28 @@ O Observer é um padrão que permite a definição de um mecanismo de assinatura
 
 [Exemplo de implementação](https://github.com/bianca-01/behavioral_design_patterns/blob/main/observer/observer.ipynb)
 
-## State
+<h2 align="center" id="state">
+  State
+</h2>
 
-## Template Method
+O State é um padrão que permite que um objeto altere seu comportamento quando seu estado interno muda. Parece como se o objeto mudasse de classe.
 
-# Referências
-https://refactoring.guru/pt-br/design-patterns
+[Exemplo de implementação](https://github.com/bianca-01/behavioral_design_patterns/blob/main/state/state.ipynb)
+
+<h2 align="center" id="template-method">
+  Template Method
+</h2>
+
+Padrão que define o esqueleto de um algoritmo dentro de um método, transferindo alguns de seus passos para as subclasses.
+
+[Exemplo de implementação](https://github.com/bianca-01/behavioral_design_patterns/blob/main/template_method/Template_method.ipynb)
+
+<h2 align="center">
+  Referências
+</h2>
+
+* Gamma, E., Helm, R., Johnson, R., and Vlissides, J. (1994). Padrões de projeto: soluções reutilizáveis de software orientado a objetos. Bookman.
+
+* https://refactoring.guru/pt-br/design-patterns
+
 
