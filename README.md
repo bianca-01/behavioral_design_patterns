@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bianca-01/behavioral_design_patterns?style=for-the-badge">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bianca-01/behavioral_design_patterns?style=for-the-badge">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/bianca-01/behavioral_design_patterns?style=for-the-badge">
 </p>
 
 Os padrões de comportamento lidam com a comunicação eficiente e a designação de responsabilidades entre objetos.
