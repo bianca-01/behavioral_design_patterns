@@ -22,11 +22,17 @@ Os padrões de comportamento lidam com a comunicação eficiente e a designaçã
 
 ## Memento
 
-## Observer
+<h2 align="center" id="observer">
+  Observer
+</h2>
+O Observer é um padrão que permite a definição de um mecanismo de assinatura para notificar múltiplos objetos sobre quaisquer eventos que aconteçam com o objeto que eles estão observando.
+
+[Exemplo de implementação](https://github.com/bianca-01/behavioral_design_patterns/blob/main/observer/observer.ipynb)
 
 ## State
 
 ## Template Method
 
-<a href="#name">⬆ Voltar ao topo</a>
-[](#behavorial-design-pattern)<br>
+# Referências
+https://refactoring.guru/pt-br/design-patterns
+
